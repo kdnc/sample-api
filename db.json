@@ -1,3 +1,4 @@
+{
 "rowData": [
   {make: "Toyota", model: "Celica", price: 35000},
   {make: "Ford", model: "Mondeo", price: 32000},
@@ -9,3 +10,4 @@
   {make: "Ford2", model: "Mondeo2", price: 32002},
   {make: "Porsche2", model: "Boxter2", price: 72002}
 ]
+}
